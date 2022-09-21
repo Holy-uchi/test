@@ -14,3 +14,14 @@ body {
   background-color: aliceblue;
   font-size: 1.2rem;
 }
+
+.a-line {
+  font-size: 1.5rem;
+}
+
+.ka-line {
+  font-size: 1.7rem;
+  color: #333;
+  padding: 10px;
+  background-color: aquamarine;
+}
