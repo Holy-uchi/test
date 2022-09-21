@@ -25,3 +25,19 @@ body {
   padding: 10px;
   background-color: aquamarine;
 }
+
+.table {
+  display: flex;
+  width: 80%;
+  margin: 0 auto 0;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+#ra-line {
+  background-color: rgb(200, 100, 50);
+}
+
+#wa-line {
+  background-color: lightcoral;
+}
